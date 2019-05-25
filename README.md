@@ -1,6 +1,5 @@
 # djangoapp
-django-from the scratch to the deployment
-______DJANGO APP in LOCAL______________________________________________________________
+django-from the scratch to the deployment  
 ## Django tutorial
 https://docs.djangoproject.com/ko/2.2/intro/tutorial01/
 
@@ -64,7 +63,6 @@ mysite\mysite\settings.py 수정
 5.2 admin에 poll app model 등록    
 mysite\polls\admin.py 수정  
 접속 : http://127.0.0.1:8000/admin/login  
-
 6. Manage static files  
 6.1 create folder under app : templates, static    
 mysite\polls\templates\polls\index.html    
